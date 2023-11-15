@@ -1,3 +1,0 @@
-import sqlite3
-
-connection = aqlite.connect("itstep10.sl3")
